@@ -27,7 +27,7 @@ This project aims to perform a comprehensive analysis of stock prices using Pyth
 This project demonstrates how Python and its libraries can be utilized for in-depth analysis of stock price data. By leveraging ETL techniques, visualization tools, and statistical methods, valuable insights into stock market trends and correlations can be gained, aiding in investment decision-making processes.
 
 ## Figures
-1.![1](https://github.com/har-shu/STOCK-PRICE-ANALYSIS/assets/71369996/d44b6d52-6527-4a30-a6ae-6cab895dc509)
+1.![1](https://github.com/Navya1223/STOCK-PRICE-ANALYSIS-DATASETS/blob/main/1.png)
 
 
 
