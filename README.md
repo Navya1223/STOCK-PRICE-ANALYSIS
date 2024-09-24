@@ -35,27 +35,27 @@ This project demonstrates how Python and its libraries can be utilized for in-de
 
 
 
-3. ![3]()
+3. ![3](https://github.com/Navya1223/STOCK-PRICE-ANALYSIS-DATASETS/blob/main/3.png)
 
 
 
-4. ![4]()
+4. ![4](https://github.com/Navya1223/STOCK-PRICE-ANALYSIS-DATASETS/blob/main/4.png)
 
 
 
-5. ![5]()
+5. ![5](https://github.com/Navya1223/STOCK-PRICE-ANALYSIS-DATASETS/blob/main/5.png)
 
 
 
-6. ![6]()
+6. ![6](https://github.com/Navya1223/STOCK-PRICE-ANALYSIS-DATASETS/blob/main/6.png)
 
 
 
-7. ![7]()
+7. ![7](https://github.com/Navya1223/STOCK-PRICE-ANALYSIS-DATASETS/blob/main/7.png)
 
 
 
-8. ![8]()
+8. ![8](https://github.com/Navya1223/STOCK-PRICE-ANALYSIS-DATASETS/blob/main/8.png)
 
 
 **How to Use**
