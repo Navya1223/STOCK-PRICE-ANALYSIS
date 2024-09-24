@@ -70,7 +70,7 @@ This project demonstrates how Python and its libraries can be utilized for in-de
 
 
 **Contributors**
-Harshitha Varma Penumatsa.
+Navya Geethika Namburi.
 
 
 **License**
