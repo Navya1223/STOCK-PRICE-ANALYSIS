@@ -39,23 +39,23 @@ This project demonstrates how Python and its libraries can be utilized for in-de
 
 
 
-4. ![4](https://github.com/har-shu/STOCK-PRICE-ANALYSIS/assets/71369996/ef5c6a9f-8f17-49c8-abde-7658d84bc9ad)
+4. ![4]()
 
 
 
-5. ![5](https://github.com/har-shu/STOCK-PRICE-ANALYSIS/assets/71369996/c65894c0-cfe7-4504-a71b-3d08d62f9a45)
+5. ![5]()
 
 
 
-6. ![6](https://github.com/har-shu/STOCK-PRICE-ANALYSIS/assets/71369996/beb0ddba-0e31-4a92-acaf-5ab91a1cbcea)
+6. ![6]()
 
 
 
-7. ![7](https://github.com/har-shu/STOCK-PRICE-ANALYSIS/assets/71369996/18f78c7b-e3e1-43a9-a911-8271727be20f)
+7. ![7]()
 
 
 
-8. ![8](https://github.com/har-shu/STOCK-PRICE-ANALYSIS/assets/71369996/e38bb378-00f1-4770-84aa-e06ae290638b)
+8. ![8]()
 
 
 **How to Use**
