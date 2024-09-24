@@ -31,11 +31,11 @@ This project demonstrates how Python and its libraries can be utilized for in-de
 
 
 
-2. ![2](https://github.com/har-shu/STOCK-PRICE-ANALYSIS/assets/71369996/1f30f165-c884-4174-b01f-0463ce624f2b)
+2. ![2](https://github.com/Navya1223/STOCK-PRICE-ANALYSIS-DATASETS/blob/main/2.png)
 
 
 
-3. ![3](https://github.com/har-shu/STOCK-PRICE-ANALYSIS/assets/71369996/4614deae-6096-46ca-a50a-b3e4bd2d19fa)
+3. ![3]()
 
 
 
